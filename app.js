@@ -1,4 +1,5 @@
 console.log("hi, there");
 
-const a =10;
-console.log(a);
+function greet(name) {
+    console.log(`Hi, ${name}. welcome to AHex`);
+}
